@@ -59,11 +59,11 @@
 					},
 					{
 						"internalType": "uint256",
-						"name": "_simpleStorageNumber",
+						"name": "_newSimpleStorageNumber",
 						"type": "uint256"
 					}
 				],
-				"name": "sfStore",
+				"name": "sfStorage",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -105,11 +105,11 @@
 			]
 		},
 		"contracts/StorageFactory.sol": {
-			"keccak256": "0x0df6fd194e367104a21b997d8137df0780629963d5e1e2c8284208d0fecf74bd",
+			"keccak256": "0x67a6c214dc9d449d8fc34d2157f75b8ddcf8766ae108e65e003b95c204ec5a41",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8b777c24c6a1fa8ae00de7ba94b7c8ae7e39eb4d956a01e38b778db1fd736ac3",
-				"dweb:/ipfs/QmZejvnmwFpUzNqHy7dNmKfezzUraqM2U6EnbE3tTZHvMQ"
+				"bzz-raw://781514abf563395668c1fcb7251ff4f89d078f625c36c94f46a8a75dacc82a5a",
+				"dweb:/ipfs/Qmdp4gu2edz2c75mknq5EZqMuqCbbqBN8B2rbua2EjQst5"
 			]
 		}
 	},
